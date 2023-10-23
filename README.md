@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @unfitml
+# 👋 Hi, I’m Ernesto
 
 - 🌱 I’m currently learning ML in public
 - 📫 You can reach me at [@unfitml](https://twitter.com/unfitml)
